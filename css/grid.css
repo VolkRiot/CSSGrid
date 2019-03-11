@@ -3,3 +3,8 @@
 
 .container {
   display: grid; }
+
+.resizable {
+  height: 200px;
+  width: 200px;
+  background-color: royalblue; }
